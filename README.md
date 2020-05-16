@@ -18,7 +18,7 @@ I am leaning C with the book "**C Programming Language, 2nd Edition**"
 
 ## 2 - Fahrenheit_Celsius_table:
 1. %d: print as integer
-2. %t: print tab
+2. \t: print tab
 3. %nd: print the number right-justified
 4. 5.0/9.0 gives a floating-point value
 5. %6.1f: print the number at least 6 characters wide, with 1 digit after the decimal point
