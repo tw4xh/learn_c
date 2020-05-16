@@ -8,7 +8,7 @@ I am leaning C with the book "**C Programming Language, 2nd Edition**"
 2. touch: create file
 3. vim: edit file
 4. :x : save and close the file
-5. cc xxx.c: compile the c file. The output file will be "a.output"
+5. cc xxx.c: compile the c file. The output file will be "a.out"
 6. ./a.out: run the compiled file
 
 ## 1 - hello world:
