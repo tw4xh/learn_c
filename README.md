@@ -27,3 +27,7 @@ I am leaning C with the book "**C Programming Language, 2nd Edition**"
 ## 3 - File copying
 1. getchar(): reads teh next input character from a text stream and returns that as its value
 2. putchar(c): prints a character each time it is called
+3. EOF is an integer defined in <stdio.h>, usually it is -1
+4. c = getchar() is an expression and has a value, which is the value of the left hand side after the assignment
+5. The precedence of != is higher than that of =
+
