@@ -2,7 +2,7 @@
 This is the path of my c learning!
 I am leaning C with the book "**C Programming Language, 2nd Edition**"
 
-## Some linux command notes:
+## Linux command:
 
 1. mkdir: create folder
 2. touch: create file
@@ -11,7 +11,7 @@ I am leaning C with the book "**C Programming Language, 2nd Edition**"
 5. cc xxx.c: compile the c file. The output file will be "a.output"
 6. ./a.out: run the compiled file
 
-## 1 - hello world note:
+## 1 - hello world:
 1. The program begins executing at the beginning of main
 2. **"\n"** is for newline
 3. **printf** is a library function that prints output 
