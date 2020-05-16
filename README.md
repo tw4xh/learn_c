@@ -3,7 +3,7 @@ This is the path of my c learning!
 
 I am leaning C with the book "**C Programming Language, 2nd Edition**"
 
-## Some command notes:
+## Some linux command notes:
 
 1. mkdir: create folder
 
@@ -16,3 +16,8 @@ I am leaning C with the book "**C Programming Language, 2nd Edition**"
 5. cc xxx.c: compile the c file. The output file will be "a.output"
 
 6. ./a.out: run the compiled file
+
+## 1 - hello world note:
+1. The program begins executing at the beginning of main
+2. **"\n"** is for newline
+3. **printf** is a library function that prints output 
