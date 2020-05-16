@@ -11,7 +11,7 @@ I am leaning C with the book "**C Programming Language, 2nd Edition**"
 5. cc xxx.c: compile the c file. The output file will be "a.out"
 6. ./a.out: run the compiled file
 
-## 1 - hello world:
+## 1 - Hello world:
 1. The program begins executing at the beginning of main
 2. **"\n"** is for newline
 3. **printf** is a library function that prints output 
@@ -23,3 +23,7 @@ I am leaning C with the book "**C Programming Language, 2nd Edition**"
 4. 5.0/9.0 gives a floating-point value
 5. %6.1f: print the number at least 6 characters wide, with 1 digit after the decimal point
 6. for statement: for(i = 0; i<= max; i = i+step){};
+
+## 3 - File copying
+1. getchar(): reads teh next input character from a text stream and returns that as its value
+2. putchar(c): prints a character each time it is called
