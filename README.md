@@ -33,6 +33,9 @@ I am leaning C with the book "**C Programming Language, 2nd Edition**"
 
 ## 4 - character counting
 
+## 5 - line counting
+1. '\n' is a single character and it is 10 in ASCII
+
 
 
 
