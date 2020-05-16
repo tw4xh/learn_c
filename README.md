@@ -2,7 +2,7 @@
 This is the path of my c learning!
 I am leaning C with the book "**C Programming Language, 2nd Edition**"
 
-## Linux command:
+## Useful Linux command:
 
 1. mkdir: create folder
 2. touch: create file
