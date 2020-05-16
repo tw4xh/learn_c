@@ -31,3 +31,15 @@ I am leaning C with the book "**C Programming Language, 2nd Edition**"
 4. c = getchar() is an expression and has a value, which is the value of the left hand side after the assignment
 5. The precedence of != is higher than that of =
 
+## 4 - character counting
+
+
+
+
+
+
+
+
+
+
+
