@@ -52,7 +52,7 @@ For invalid Inputs, an unclosed file which does not have EOF, which is tricky to
 http://www.learntosolveit.com/cprogramming/Ex_1.11_test_word_count.html
 
 ## 7 - Arrays
-1. declaration of array: int ndigit\[10\]
+1. declaration of array: int ndigit\[10\]. Array subscripts start at 0
 
 
 
