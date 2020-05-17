@@ -31,10 +31,13 @@ I am leaning C with the book "**C Programming Language, 2nd Edition**"
 4. c = getchar() is an expression and has a value, which is the value of the left hand side after the assignment
 5. The precedence of != is higher than that of =
 
-## 4 - character counting
+## 4 - Character counting
 
-## 5 - line counting
+## 5 - Line counting
 1. '\n' is a single character and it is 10 in ASCII
+
+## 6 - Word counting
+1. nl = nw = nc = 0; sets all three variables to zero. The sequence is from right to left
 
 
 
