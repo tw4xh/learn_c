@@ -4,7 +4,7 @@
 #define OUT 0   /* outside a word */
 
 /* count lines, words, and characters in input */
-main()
+int main()
 {
 	int c, nl, nw, nc, state;
 
@@ -22,6 +22,6 @@ main()
 		}
 	}
 	printf("%d %d %d\n", nl, nw, nc);
-
+	return 0;
 }
 
