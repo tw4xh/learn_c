@@ -5,7 +5,7 @@
 replacing each tab by \t, each backspace by \b, and each backslash 
 by \\. This makes tabs and backspaces visible in an unambiguous way. */
 
-main()
+int main()
 {
 	int c;	
 
@@ -25,6 +25,6 @@ main()
 		else
 			putchar(c);
 	}
-	
+	return 0;
 }
 
