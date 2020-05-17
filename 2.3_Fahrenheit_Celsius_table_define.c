@@ -4,7 +4,7 @@
 #define STEP 20 /* step size */
 
 /* print Fahrenheit-Celsius table for fahr = 0, 20, ..., 300 */
-main()
+int main()
 {
 	float fahr;
 	printf("Fahrenheit Celsius Table\n");
@@ -13,4 +13,5 @@ main()
 	for(fahr = LOWER; fahr <= UPPER; fahr += STEP){
 		printf("%4.0f\t%7.1f\n",fahr, (5.0/9.0)*(fahr-32));
 	}
+	return 0;
 }
