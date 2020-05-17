@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /* count characters in input */
-main()
+int main()
 {
 	long nc;
 	
@@ -13,4 +13,5 @@ main()
 		;
 	//printf("%1d\n", nc);
 	printf("%ld\n", nc);
+	return 0;
 }
