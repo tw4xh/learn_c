@@ -38,6 +38,7 @@ I am leaning C with the book "**C Programming Language, 2nd Edition**"
 
 ## 6 - Word counting
 1. nl = nw = nc = 0; sets all three variables to zero. The sequence is from right to left
+2. || is OR, && is AND. AND has higher precedence than OR. Expressions connected by && or || are evaluated left to right, and it is guaranteed that evaluation will stop as soon as the truth or falsehood is known
 
 
 
