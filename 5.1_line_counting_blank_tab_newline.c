@@ -2,7 +2,7 @@
 
 /* count lines in input */
 /* Exercise 1-8. Write a program to count blanks, tabs, and newlines. */
-main()
+int main()
 {
 	int c, nl, nb, nt;
 	
@@ -18,5 +18,6 @@ main()
 			++nb;
 	}
 	printf("#line: %d\n#blank: %d\n#tab: %d\n ", nl, nb, nt);
+	return 0;
 }
 
