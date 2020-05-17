@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /* count lines in input */
-main()
+int main()
 {
 	int c, nl;
 	
@@ -10,5 +10,6 @@ main()
 		if (c == '\n')
 			++nl;
 	printf("%d\n", nl);
+	return 0;
 }
 
