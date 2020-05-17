@@ -51,6 +51,9 @@ For Boundary conditions, a file entirely consisting of n, or a file entirely con
 For invalid Inputs, an unclosed file which does not have EOF, which is tricky to provide can be given to this program. A unicode character file can be given and see if getchar() handles it properly. We tested it and it works.
 http://www.learntosolveit.com/cprogramming/Ex_1.11_test_word_count.html
 
+## 7 - Arrays
+1. declaration of array: int ndigit\[10\]
+
 
 
 
